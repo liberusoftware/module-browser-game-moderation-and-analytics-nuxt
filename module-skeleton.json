@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-moderation-and-analytics-nuxt",
+  "capabilityKey": "liberusoftware/module-browser-game-moderation-and-analytics",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-browser-game-moderation-and-analytics-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/browser-game/nextjs/moderation-and-analytics.md",
+  "presentationPlan": "projects/browser-game/nuxt/moderation-and-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
